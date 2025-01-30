@@ -9,8 +9,8 @@ const page = () => {
     Hi, I am <span className='text-indigo-600' >Unzila Ali</span>
     </h1> 
 <p className='text-xl text-gray-600 mt-4 max-w-2xl mx-auto' >
-A "Frontend Developer" with expertise in building modern, responsive, and interactive web applications using "Next.js, TypeScript, and Tailwind CSS".  
-        Also a "Graphic Designer", crafting visually stunning and user-friendly interfaces.
+A Frontend Developer with expertise in building modern, responsive, and interactive web applications using Next.js, TypeScript, and Tailwind CSS.  
+        Also a Graphic Designer, crafting visually stunning and user-friendly interfaces.
 
 </p>
 <div className='mt-8'>

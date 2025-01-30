@@ -5,10 +5,10 @@ const Aboutpage = () => {
     <div className='py-20 max-w-4xl mx-auto text-center '>
       <h1 className='text-4xl font-extrabold text-gray-900 '>About Me</h1>
       <p className='text-lg text-gray-700 mt-4 leading-relaxed '>
-      I am "Unzila Ali", a dedicated "Frontend Developer" and "Graphic Designer" with a strong passion for creating modern, user-friendly digital experiences.  
-        With expertise in "Next.js, TypeScript, and Tailwind CSS", I specialize in building "high-performance, visually appealing, and accessible web applications".  
+      I am Unzila Ali, a dedicated Frontend Developer and Graphic Designer with a strong passion for creating modern, user-friendly digital experiences.  
+        With expertise in Next.js, TypeScript, and Tailwind CSS, I specialize in building high-performance, visually appealing, and accessible web applications.  
 
-        My background in "graphic design" enhances my ability to craft "aesthetic and intuitive UI/UX designs", ensuring a seamless experience for users.  
+        My background in graphic design enhances my ability to craft aesthetic and intuitive UI/UX designs, ensuring a seamless experience for users.  
         I am constantly learning, exploring innovative solutions, and refining my skills to stay ahead in the ever-evolving world of technology.
 
       </p>
@@ -19,19 +19,19 @@ Education
 </h2>
 <ul className='mt-6 space-y-4 text-lg text-gray-700' >
 <li>
-<strong>GIAIC:</strong> Currently studying "Certified Cloud Applied Generative Artificial Intelligence" at Governor House Sindh, aspiring to become a "Full Stack AI Engineer".
+<strong>GIAIC:</strong> Currently studying Certified Cloud Applied Generative Artificial Intelligence at Governor House Sindh, aspiring to become a Full Stack AI Engineer.
 </li>
 <li>
-<strong>Master’s in International Relations (IR):</strong> Achieved 1st Division from "University of Karachi (2020-2022)".
+<strong>Master’s in International Relations (IR):</strong> Achieved 1st Division from University of Karachi (2020-2022).
 </li>
 <li>
-<strong>Bachelor of Commerce:</strong> Secured 1st Division from "Government College of Commerce and Economics Karachi (affiliated with University of Karachi, 2017-2019)".
+<strong>Bachelor of Commerce:</strong> Secured 1st Division from Government College of Commerce and Economics Karachi (affiliated with University of Karachi, 2017-2019).
 </li>
 <li>
-<strong>Intermediate (Pre-Medical):</strong> Completed from "Govt. Degree College for Women Nazimabad, Karachi (2015-2017)" with Grade A.
+<strong>Intermediate (Pre-Medical):</strong> Completed from Govt. Degree College for Women Nazimabad, Karachi (2015-2017) with Grade A.
 </li>
 <li>
-<strong>Matriculation:</strong> Graduated from "White Rose Grammar School, Karachi (2012-2014)" with Grade A.
+<strong>Matriculation:</strong> Graduated from White Rose Grammar School, Karachi (2012-2014) with Grade A.
 </li>
 </ul>
 </div>

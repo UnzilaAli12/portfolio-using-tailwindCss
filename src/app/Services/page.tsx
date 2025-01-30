@@ -6,7 +6,7 @@ const page = () => {
     <div className='py-20 max-w-5xl mx-auto text-center' >
       <h1 className='text-4xl font-extrabold text-gray-900' >My Services</h1>
       <p className='text-lg mt-6 text-gray-700'>
-      I offer professional "Frontend Development" and "Graphic Design" services,  
+      I offer professional Frontend Development and Graphic Design services,  
       helping businesses and individuals build stunning digital experiences.
       </p>
       <div className='mt-12 grid grid-col-1 md:grid-col-2 gap-1' >
@@ -15,9 +15,9 @@ const page = () => {
 Frontend Development
 </h2>
 <p className='text-gray-700 mt-4'>
-I specialize in building "modern, responsive, and high-performance" websites  
-using "Next.js, TypeScript, and Tailwind CSS".  
-My focus is on "clean code, user experience, and performance optimization".
+I specialize in building modern, responsive, and high-performance websites  
+using Next.js, TypeScript, and Tailwind CSS.  
+My focus is on clean code, user experience, and performance optimization.
 </p>
 <ul className='mt-4 text-gray-600 text-left space-y-2'>
 <li>✅ Custom Web Applications</li>
@@ -30,7 +30,7 @@ My focus is on "clean code, user experience, and performance optimization".
 <div className='bg-gray-100 p-6 rounded-lg shadow-md mt-20'>
 <h2 className='text-3xl font-bold text-indigo-700 ' >Graphic Design</h2>
 <p className='text-gray-700 mt-4'>
-With a strong "graphic design background", I create "eye-catching visuals"  
+With a strong graphic design background, I create eye-catching visuals  
 that enhance brand identity and user engagement.
 </p>
 <ul className='mt-4 text-gray-600 text-left space-y-2'>
@@ -43,7 +43,7 @@ that enhance brand identity and user engagement.
 </div>
       </div>
 <div className='mt-12'>
-<p className='text-lg text-gray-700'>Need a custom project? Let's work together! 🚀</p>
+<p className='text-lg text-gray-700'>Need a custom project? Lets work together! 🚀</p>
 <Link href="/Contact" target='block' className='mt-4 inline-block bg-indigo-600 text-white px-6 py-3 rounded-lg text-lg font-semibold hover:bg-indigo-700 transition'>
 Get in Touch
 </Link>
